@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextAlignment</string>
+    <string name="noFS">No file selected</string>
+</resources>
